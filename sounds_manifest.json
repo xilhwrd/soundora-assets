@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "description": "Soundora On-Demand Ambient Soundscape Library (Hosted on GitHub / jsDelivr CDN)",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/xilhwrd/soundora-assets@main/sounds",
+  "stems": [
+    {
+      "id": "space_drone",
+      "name": "Deep Space Drone",
+      "category": "Music",
+      "fileName": "space_drone.m4a",
+      "sizeBytes": 220216,
+      "sizeMb": 0.21,
+      "format": "m4a (AAC 128kbps stereo, 44.1kHz, seamless loop)"
+    },
+    {
+      "id": "space_hum",
+      "name": "Life Support Recycler",
+      "category": "Environment",
+      "fileName": "space_hum.m4a",
+      "sizeBytes": 304050,
+      "sizeMb": 0.29,
+      "format": "m4a (AAC 128kbps stereo, 44.1kHz, seamless loop)"
+    },
+    {
+      "id": "cosmic_noise",
+      "name": "Cosmic Pink Noise",
+      "category": "Noise",
+      "fileName": "cosmic_noise.m4a",
+      "sizeBytes": 260666,
+      "sizeMb": 0.25,
+      "format": "m4a (AAC 128kbps stereo, 44.1kHz, seamless loop)"
+    },
+    {
+      "id": "mountain_gale",
+      "name": "Alpine Ridge Gale",
+      "category": "Nature",
+      "fileName": "mountain_gale.m4a",
+      "sizeBytes": 300084,
+      "sizeMb": 0.29,
+      "format": "m4a (AAC 128kbps stereo, 44.1kHz, seamless loop)"
+    },
+    {
+      "id": "cabin_rumble",
+      "name": "Pressurized Cabin Hum",
+      "category": "Environment",
+      "fileName": "cabin_rumble.m4a",
+      "sizeBytes": 304247,
+      "sizeMb": 0.29,
+      "format": "m4a (AAC 128kbps stereo, 44.1kHz, seamless loop)"
+    },
+    {
+      "id": "temple_bell",
+      "name": "Kyoto Temple Singing Bell",
+      "category": "Music",
+      "fileName": "temple_bell.m4a",
+      "sizeBytes": 178597,
+      "sizeMb": 0.17,
+      "format": "m4a (AAC 128kbps stereo, 44.1kHz, seamless loop)"
+    },
+    {
+      "id": "bamboo_wind",
+      "name": "Bamboo Grove Wind",
+      "category": "Nature",
+      "fileName": "bamboo_wind.m4a",
+      "sizeBytes": 302716,
+      "sizeMb": 0.29,
+      "format": "m4a (AAC 128kbps stereo, 44.1kHz, seamless loop)"
+    }
+  ]
+}

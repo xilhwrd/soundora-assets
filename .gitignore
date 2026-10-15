@@ -1,0 +1,7 @@
+# Soundora Remote Assets - Git Ignore
+.DS_Store
+Thumbs.db
+*.wav
+*.tmp
+.idea/
+.vscode/
